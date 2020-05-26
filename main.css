@@ -1,0 +1,13 @@
+
+.purpleLover
+{
+    color:purple;
+}
+#colorchanger
+{
+    color:blue;
+}
+#colorchanger:hover
+{
+    color:white;
+}
